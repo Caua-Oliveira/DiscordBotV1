@@ -2,4 +2,4 @@ prefixes.json
 .venv
 venv/
 ENV/
-.idea
+.idea/
