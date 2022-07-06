@@ -1,5 +1,2 @@
-prefixes.json
-.venv
-venv/
-ENV/
+/prefixes.json
 .idea/
