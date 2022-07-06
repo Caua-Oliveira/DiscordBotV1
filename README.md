@@ -1,2 +1,2 @@
 # DiscordBotV1
- Bot without slash command and buttons
+ Bot without slash commands and buttons
