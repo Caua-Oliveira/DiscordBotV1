@@ -6,9 +6,6 @@ import json
 from pprint import pprint
 import asyncio
 
-
-
-
 class Comandos(commands.Cog):
 
     def __init__(self, client):
