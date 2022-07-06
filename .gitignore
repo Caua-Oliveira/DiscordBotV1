@@ -2,4 +2,3 @@ prefixes.json
 .venv
 venv/
 ENV/
-.gitignore
