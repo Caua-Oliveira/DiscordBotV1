@@ -246,11 +246,6 @@ class Comandos(commands.Cog):
         embed.add_field(name="**Saiba mais**", value=f"[Myanimelist Page]({url})", inline=False)
         embed.set_footer(icon_url='https://cdn.discordapp.com/avatars/989409439956213830/b9336d36eb09936ca2405830600c1bc3.webp?size=1024', text="De: myanimelist.com")
         mensagem = await ctx.send(embed=embed)
-        await mensagem.add_reaction('⬅')
-        await mensagem.add_reaction('➡')
-        await asyncio.sleep(60)
-
-
 
         return
 
